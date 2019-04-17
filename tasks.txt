@@ -1,2 +1,5 @@
-* Create REST APIs with express:
+* Basic routing and get / post requests: DONE
+* Connect with MySQL:
+* Create CRUD APIs:
 * Add typescript in express:
+* Add env vars

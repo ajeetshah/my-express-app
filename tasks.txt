@@ -1,5 +1,7 @@
 * Basic routing and get / post requests: DONE
-* Connect with MySQL:
+* Connect with MySQL: DONE
 * Create CRUD APIs:
 * Add typescript in express:
 * Add env vars
+* Migrate to SSL connection
+

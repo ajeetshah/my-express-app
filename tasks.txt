@@ -1,7 +1,9 @@
 * Basic routing and get / post requests: DONE
 * Connect with MySQL: DONE
+
 * Create CRUD APIs:
+https://www.codementor.io/julieisip/learn-rest-api-using-express-js-and-mysql-db-ldflyx8g2
+
 * Add typescript in express:
 * Add env vars
 * Migrate to SSL connection
-

@@ -7,3 +7,4 @@ https://www.codementor.io/julieisip/learn-rest-api-using-express-js-and-mysql-db
 * Add typescript in express:
 * Add env vars
 * Migrate to SSL connection
+

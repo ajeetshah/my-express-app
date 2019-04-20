@@ -4,7 +4,8 @@
 * Create CRUD APIs: DONE
 https://www.codementor.io/julieisip/learn-rest-api-using-express-js-and-mysql-db-ldflyx8g2
 
-* Add typescript in express:
+* Create .editorconfig file
+* Add typescript in express
 * Add env vars
 * Migrate to SSL connection
 
